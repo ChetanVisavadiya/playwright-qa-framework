@@ -1,5 +1,7 @@
 # Playwright QA Framework (TypeScript)
 
+[![Playwright tests](https://github.com/ChetanVisavadiya/playwright-qa-framework/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/ChetanVisavadiya/playwright-qa-framework/actions/workflows/playwright.yml)
+
 A compact, CI-ready test automation framework covering **UI** (Page Object Model) and **API** (typed client with contract validation), built with Playwright and TypeScript.
 
 > All tests run against public practice sites. No client code, data or credentials are used.
